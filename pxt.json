@@ -1,7 +1,7 @@
 {
-    "name": "wuKong",
+    "name": "wukongBit",
     "version": "1.2.0",
-    "description": "micro:bit multifunctional expansion board WuKong",
+    "description": "micro:bit multifunctional expansion board WuKongbit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
